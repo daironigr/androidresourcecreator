@@ -1,1 +1,3 @@
 # androidresourcecreator
+Android Resource Creator permite agregar cualquier cantidad de imagenes a una aplicacion. Copia las imagenes al directorio "drawable" y genera ademas una clase que contiene un arreglo con todos los IDs de las imagenes.
+Muy util para crear una aplicacion con muchas imagenes, una galeria, una app de memes, etc...
